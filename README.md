@@ -4,7 +4,7 @@ This repository contains a MATLAB package to perform dynamic mode decomposition 
 
 Details of EMDMD and its implementation are shown in [paper](https://doi.org/10.1016/j.ymssp.2024.111864) entitled "Dynamic mode decomposition based on expectation–maximization algorithm for simultaneous system identification and denoising" and published at Mechanical Systems and Signal Processing.
 
-If you use EMDMD in your work, please cite the relevent paper.
+If you use EMDMD in your work, please cite the relevant paper.
 
 ## File and directory
 main.m: sample program performing EMDMD at sample data
@@ -18,7 +18,7 @@ output: directory that includes results outputed when performing "main.m"
 function: directory that includes functions essential for performing "main.m"
 
 ## Note
-Please use "EMDMD.m" function with reference to "main.m" when you want to use EMDMD on your data
+Please use "EMDMD.m" function with reference to "main.m" when you use EMDMD on your data
 
 ## Copyright
 (C) 2024 Yuto IWASAKI, CCBY
